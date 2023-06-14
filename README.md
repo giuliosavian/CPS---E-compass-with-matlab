@@ -2,6 +2,7 @@
 
 <!-- INTRO OF THE PROJECT -->
 ## Intro Of The Project
+This project has been made by myself from the cyber physic system course in the university of Padua and it use matlab mobile connected to the phone. The phone is a E-compass while the results are diplayed in the PC through matlab.
 
 In this project we want to realize a very simple electronic compass by using the magnetometer embedded in your smartphone. 
 
